@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z3PGOXFio66k5oEQwca56FyzKMLfWs3KqJVgrhRo+YeXnP1xYdLMs7uytpphJNEvtre8Da9k79TUJeKSYkpv8w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\joseh\\Desktop\\F# exercises\\SequenceCreation\\SequenceCreation.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joseh\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
